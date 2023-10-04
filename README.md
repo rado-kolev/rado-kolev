@@ -7,6 +7,7 @@
 - 💼 &nbsp; I am looking for a career in front-end development.
 - 🌱 &nbsp; I am learning more about React.
 
+
 ### 🛠 &nbsp;Tech Stack
 
 #### 📚 Education
@@ -59,12 +60,14 @@
 
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
+
 ### GitHub Analytics:
 
 <a href="https://github.com/rado-kolev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rado-kolev&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rado-kolev&theme=buefy&layout=compact" />
 </a>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
