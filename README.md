@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Rado!
+# 👋 Hi there! I am Rado.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
