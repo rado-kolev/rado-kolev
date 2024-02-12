@@ -30,6 +30,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+  ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 
 ### 🗃️ Content Management System (CMS)
   ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=for-the-badge)
