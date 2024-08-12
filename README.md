@@ -2,10 +2,10 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🤓 &nbsp; I am exploring new technologies, learning about technological advancements and working constantly on self-improvement.
+- 🤓 &nbsp; I am exploring new technologies, learning about technological advancements, and working constantly on self-improvement.
 - 🎓 &nbsp; I am a Computing Technologies graduate from the [University of Roehampton](https://www.roehampton.ac.uk/).
 - 💼 &nbsp; I am looking for a career in front-end development.
-- 🌱 &nbsp; I am learning more about NextJS and TypeScript.
+- 🌱 &nbsp; I am learning more about NextJS and Typescript.
 - 🔊 &nbsp; I am listening to music 90% of the time (or more 🤔) when not in the company of someone.
 
 <br/>
